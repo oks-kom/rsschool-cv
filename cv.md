@@ -7,7 +7,7 @@
 
 ## Skills: ##
 * HTML
-* CSS/SASS
+* CSS
 * JavaScript (Basic)
 ## Code Example: ##
 ```
